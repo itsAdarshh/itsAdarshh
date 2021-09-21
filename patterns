@@ -13,7 +13,9 @@ public class Main {
         }
     }
 }
-NEW PATTERN ------------------------------------------------------------------------------------------------>
+
+
+NEW PATTERN ----------------------------------------------------------------------------------------------------------------------------->
 
 package com.company;
 
@@ -29,6 +31,38 @@ public class Main {
                 } else {
                     System.out.print(" ");
                 }
+            }
+            System.out.println();
+        }
+    }
+}
+
+NEEpackage com.company;
+
+public class Main {
+
+    public static void main(String[] args) {
+        int n = 4;
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= i; j++) {
+                System.out.print("*");
+            }
+            System.out.println();
+        }
+    }
+}
+
+NEW PATTERN -------------------------------------------------------------------------------------------------------------------------->
+
+package com.company;
+
+public class Main {
+
+    public static void main(String[] args) {
+        int n = 4;
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= i; j++) {
+                System.out.print("*");
             }
             System.out.println();
         }
