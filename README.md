@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on Website Develpment
-- 📫 How to reach me ...IG - adarshh01_ | Email - adarsh76777@gmail.com
+- 📫 How to reach me ...IG - itsadarshhh_ | Email - infoforadarsh@gmail.com
 
 <!---
 itsAdarshh/itsAdarshh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
